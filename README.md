@@ -5,20 +5,14 @@ Welcome to the Simon Says Game! This is a web-based implementation of the classi
 ## Table of Contents
 
 - [Description](#description)
-- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
 This project is a simple browser-based game developed using HTML, CSS, and JavaScript. The game displays a sequence of colored buttons that light up in a specific order, and the player's objective is to mimic that sequence by clicking on the buttons in the correct order. The game progressively increases in difficulty as the player successfully completes each level.
-
-## Demo
-
-You can try out the Simon Says Game by visiting the live demo [here](https://your-demo-link.com).
 
 ## Features
 
@@ -34,7 +28,7 @@ You can try out the Simon Says Game by visiting the live demo [here](https://you
 1. Clone the repository to your local machine using:
 
    ```bash
-   git clone https://github.com/your-username/simon-says-game.git
+   git clone https://github.com/MustafaHasan972/simon-says-game.git
    ```
 
 2. Navigate to the project directory:
@@ -55,10 +49,6 @@ You can try out the Simon Says Game by visiting the live demo [here](https://you
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or create a pull request. Please make sure to follow the [code of conduct](CODE_OF_CONDUCT.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
