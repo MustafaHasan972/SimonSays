@@ -16,7 +16,6 @@ This project is a simple browser-based game developed using HTML, CSS, and JavaS
 
 ## Features
 
-- Responsive design that works on various screen sizes.
 - Randomized color sequence generation for each level.
 - User-friendly interface with visual feedback on button clicks.
 - Game-over screen displaying the player's final score.
